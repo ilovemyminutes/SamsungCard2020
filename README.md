@@ -1,5 +1,6 @@
 # BigContest2020
-
+- TEAM: DATA VITA
+- MEMBERS: 박재우, 이형선, 고지형
 ### 데이터 경로
 ```
 BigContest2020
