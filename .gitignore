@@ -1,13 +1,7 @@
 # Data path
 .data/
 *.csv
-*.DBF
-*.PRJ
-*.SHP
-*.SHX
 *.xlsx
-*.txt
-
 
 # Unit test / coverage reports
 htmlcov/
