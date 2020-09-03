@@ -1,5 +1,9 @@
 # SamsungCard2020
 - MEMBERS: 박재우, 이형선, 고지형
+
+### 가이드
+- Python 3.6 버전으로 가상환경 활성화 후, `pip install -r requirements.txt` 명령을 실행하여 패키지 설치
+
 ### 데이터 경로
 ```
 SamsungCard2020
