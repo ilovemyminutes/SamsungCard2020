@@ -17,6 +17,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 .vscode/
+.Rhistory
 
 # Jupyter Notebook
 .ipynb_checkpoints
