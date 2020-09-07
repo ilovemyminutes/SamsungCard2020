@@ -21,3 +21,4 @@ catboost==0.22
 
 # extra
 xlrd
+jupyter
