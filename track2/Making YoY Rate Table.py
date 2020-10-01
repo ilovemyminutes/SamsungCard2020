@@ -32,12 +32,12 @@ print(tot_var_list)
 
 def cnt_df_check(df_, var_list):
     data = df_.copy()
-    output = data.groupby(['YM', 'Category'] + var_list)['YM'].count().to_frame('Value').reset_index()
+    output = data.groupby(var_list)['YM'].count().to_frame('Value').reset_index()
     return output
 
 def cnt_tf_series(series_):
     data = series_.copy()
-    srch_list = data.drop(index=['YM', 'Category', 'Value'])
+    srch_list = data.drop(index=['Value'])
     temp = []
     for i in range(len(srch_list)):
         temp.append(f'{str(srch_list.index[i])}={str(srch_list[i])}')
@@ -138,4 +138,4 @@ rate_table = rate_funnel(train, tot_var_list, valid_seg)
 # In[ ]:
 
 
-rate_table.to_csv('./data/yoy_rate_table.csv', index=False)
+rate_table.to_pickle('./data/yoy_rate_table.pkl')
