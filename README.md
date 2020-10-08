@@ -4,7 +4,7 @@
 - 프로젝트 참여자: 박재우, 이형선, 고지형(본인)
 ---
 ### 🤔가이드
-- Python 3.6 버전으로 가상환경 활성화 후, `pip install -r requirements.txt` 명령을 실행하여 패키지 설치합니다.
+- Python 3.6 버전으로 가상환경 활성화 후, `pip install -r requirements.txt` 명령을 실행하여 패키지를 설치합니다.
 ---
 ### 👀주요 경로
 ```
