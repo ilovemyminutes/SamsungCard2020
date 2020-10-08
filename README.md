@@ -1,4 +1,4 @@
-# 🤗 SamsungCard2020
+# 🏦 SamsungCard2020
 - 본 저장소는 [삼성카드 데이터 분석 공모전(SCDC2020)](https://www.samsungcard.com/personal/notice/news/UHPPCC0248M0.jsp?itgBlbdSn=5203&chnlDv=01&itgBlbdTpDvc=01)에서 진행한 프로젝트를 기록하기 위한 공간입니다.
 - 대회 기간: 2020.08.24~2020.11.30
 - 프로젝트 참여자: 박재우, 이형선, 고지형(본인)
