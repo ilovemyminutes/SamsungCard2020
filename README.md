@@ -8,7 +8,7 @@
 박재우, 이형선, 고지형
 
 ## 😎프로젝트 결과
-- 1차 분석계획서: [DATAVITA 분석계획서](https://github.com/iloveslowfood/SamsungCard2020/blob/master/ppt/%EB%B6%84%EC%84%9D%EA%B3%84%ED%9A%8D%EC%84%9C_DATAVITA.pdf)
+- `분석계획서_DATAVITA.pdf`: [1차 분석계획서](https://github.com/iloveslowfood/SamsungCard2020/blob/master/ppt/%EB%B6%84%EC%84%9D%EA%B3%84%ED%9A%8D%EC%84%9C_DATAVITA.pdf)입니다.
 
 ## 🐱‍👤가이드
 - Python 3.6 버전으로 가상환경 활성화 후, `pip install -r requirements.txt` 명령을 실행하여 패키지를 설치합니다.
